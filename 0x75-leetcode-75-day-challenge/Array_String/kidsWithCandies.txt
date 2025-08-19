@@ -1,0 +1,23 @@
+Pseudocode
+The problem wants us to find the kids with the most candies.
+The problem is basic.
+THe idea is to iterate through the list of the kids with cadies, add the extra candies then produce an array with boolean values.
+
+// The approach.
+1. Find the maximum value in the list provided.
+2. Iterate through each element in the list while adding the number of extra candies.
+3. If the extra candies are more, populate a list with boolean valuee in either true or false.
+4. Return the list.
+
+// Challenges
+1. How to find the maximum value of an integer in Java.
+2. How to iterate through a list in Java.
+3. How to append values in an array in Java.
+
+// New things to learn
+1. The difference between a list and an array in Java.
+2. How to find the maximum and minimum value of an element in a list.
+3. How to add elements to an array.
+4. Possibility of converting a list to an array.
+5. Array operations.
+6. List operations.
